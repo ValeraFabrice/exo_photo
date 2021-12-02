@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box; }
+
+.container-row,
+.container-card {
+  display: flex; }
+
+.texto {
+  align-items: center; }
+
+h2 {
+  color: red; }
+
+/*# sourceMappingURL=style.css.map */
